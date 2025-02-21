@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 6992791203241909481}
   - component: {fileID: 1498082165460242244}
   - component: {fileID: 7943795971225011171}
-  - component: {fileID: 1817148749863409629}
+  - component: {fileID: 5947533874982003203}
   m_Layer: 0
   m_Name: BreakoutBlock
   m_TagString: block
@@ -171,7 +171,7 @@ MonoBehaviour:
     _json: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
     _objectReferences:
     - {fileID: 11400000, guid: 534e364344f4a3340bd5571f09f7e785, type: 2}
---- !u!82 &1817148749863409629
+--- !u!82 &5947533874982003203
 AudioSource:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -183,7 +183,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 0}
   m_PlayOnAwake: 0
-  m_Volume: 0
+  m_Volume: 1
   m_Pitch: 1
   Loop: 0
   Mute: 0
